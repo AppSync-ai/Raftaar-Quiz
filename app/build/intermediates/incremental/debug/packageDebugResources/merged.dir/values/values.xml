@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Blue_Dress">#007DFF</color>
+    <color name="Green_Apple">#4CC417</color>
+    <color name="Transparent">#00ffffff</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#007DFF</color>
+    <color name="blue1">#004FA1</color>
+    <color name="blue2">#7CB6F3</color>
+    <color name="blue3">#3694F6</color>
+    <color name="color">#F6B7B7</color>
+    <color name="fontColor">#666666</color>
+    <color name="ic_launcher_background">#3DDC84</color>
+    <color name="light_gray">#F3F3F3</color>
+    <color name="light_green">#DFF1D6</color>
+    <color name="light_red">#F5DEDE</color>
+    <color name="purple">#8E4EF0</color>
+    <color name="purple1">#4E2C80</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#F80000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Total Test</string>
+    <string name="back_key">Please click back again to exit</string>
+    <string name="close">close</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="start">start</string>
+    <string name="title">EXAM CATEGORIES</string>
+    <string name="title1">AVAILABLE TEST SERIES</string>
+    <style name="Theme.RaftaarQuiz" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

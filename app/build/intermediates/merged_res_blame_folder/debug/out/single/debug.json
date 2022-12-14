@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_total_test_logo.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/total_test_logo.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_play_arrow_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_bar_chart.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/bar_chart.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_mock_test_list.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_mock_test_list.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_view_book.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_view_book.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_current_affairs.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_current_affairs.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_border_red.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/border_red.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_game_logo.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/game_logo.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_books_lottie.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/books_lottie.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_down.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/down.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_arrow_forward_ios_small.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_arrow_forward_ios_small.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_border_light_gray1.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/border_light_gray1.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_book_list_layout.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/book_list_layout.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_green_reading_background.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/green_reading_background.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_arrow_forward_small_size.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_arrow_forward_small_size.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/anim_slide_down.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_circle_green.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/circle_green.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_alert.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/alert.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_logo.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_fragment_leaderboard.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/fragment_leaderboard.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_available_test_series.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_available_test_series.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_current_affairs.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/current_affairs.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_exam.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/exam.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_bg_dot.jpg.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/bg_dot.jpg"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_tournament_question.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_tournament_question.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_share_icon.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/share_icon.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_wallet_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_wallet_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_account_balance_wallet_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_withdrawal.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/withdrawal.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_all_web_view.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_all_web_view.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_happy_emoji.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/happy_emoji.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_book.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_book.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_job_alert.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_job_alert.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_view_current_affairs.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_view_current_affairs.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_fragment_mock_test.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/fragment_mock_test.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_sets.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/sets.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_set.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/set.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_supervisor_account_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_supervisor_account_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_test_series_exam_cat.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/test_series_exam_cat.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_test_series_question.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_test_series_question.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_book1.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/book1.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_admission.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/admission.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_exam.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/exam.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_category_line.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_category_line.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_edit_profile.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_mock_test.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_mock_test.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_leaderboard1.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_leaderboard1.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_oneside_round_bg.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/oneside_round_bg.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_logout_1.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_logout_1.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_bg.jpg.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/bg.jpg"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_quiz.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/quiz.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_full_dialog1.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_full_dialog1.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_latest_job.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/latest_job.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_test_lottie.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/test_lottie.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_questions.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_questions.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_quiz.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.raftaarquiz.app-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_border_bg_white.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/border_bg_white.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_lock_reset_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_lock_reset_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_leaderboard.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_leaderboard.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_no_data_found.jpeg.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/no_data_found.jpeg"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_all_india_job.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/all_india_job.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_white_cardview.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/white_cardview.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_quiz.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/quiz.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_img.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/img.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_set.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_set.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_share_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_logout_green.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_logout_green.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_rect_blue.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/rect_blue.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_up.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/up.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_fragment_home.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_book_new.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/book_new.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/menu_navigation_drawer.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/menu/navigation_drawer.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_ic_google_svgrepo_com.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/ic_google_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_book_bg.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/book_bg.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_current_affairs.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_current_affairs.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_test_series.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_test_series.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_no_items_found.jpg.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/no_items_found.jpg"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_current_affairs.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/current_affairs.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_img_over.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/img_over.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_share.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_book2.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/book2.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_round_bottom_corner_rectangle.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/round_bottom_corner_rectangle.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_round_with_border.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/round_with_border.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_about_us.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_border_radius.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/border_radius.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_border_radius_blue.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/border_radius_blue.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/menu_menu.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_book.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/book.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_check_circle_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_fulldialog_submit_test.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/fulldialog_submit_test.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_category.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_category.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_tournament_quiz.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_tournament_quiz.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_splash.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_fragment_my_download.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/fragment_my_download.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_splash_gradient.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/splash_gradient.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_available_test_series_list.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/available_test_series_list.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_circle.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_currentaffairs.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/currentaffairs.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_avatar.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/avatar.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_dialog_submit_test.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/dialog_submit_test.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_download_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_download_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_job_alert.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/job_alert.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable-v24_c_vc_border_rounded.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable-v24/c_vc_border_rounded.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_close_24.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_group__4_.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/group__4_.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_set_question.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_set_question.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_single_question_no.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/single_question_no.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_activity_login.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_fragment_my_profile.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/fragment_my_profile.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/raw_test_series.json.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/raw/test_series.json"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_profile_pic.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_profile_pic.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_sad_emoji.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/sad_emoji.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_gradient1.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/gradient1.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_tg_logo.png.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/tg_logo.png"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/layout_row_toolbar.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/layout/row_toolbar.xml"
+    },
+    {
+        "merged": "com.example.raftaarquiz.app-merged_res-41:/drawable_ic_baseline_arrow_back_white.xml.flat",
+        "source": "com.example.raftaarquiz.app-main-43:/drawable/ic_baseline_arrow_back_white.xml"
+    }
+]
